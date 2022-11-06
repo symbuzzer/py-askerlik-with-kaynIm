@@ -14,3 +14,4 @@ if cinsiyet=="":
     print("Lütfen bir cinsiyet girin")
 if cinsiyet!="e" and cinsiyet!="k" and cinsiyet!="":
     print("Cinsiyeti yanlış girdiniz")
+input("Press Enter to continue...")
