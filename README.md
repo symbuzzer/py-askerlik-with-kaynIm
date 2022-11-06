@@ -1,4 +1,4 @@
-# py-askerik-with-kaynIm
+# py-askerlik-with-kaynIm
 Bünyamin BAKIMCI ile Python alıştırması
 
 Nasıl çalışır:  
