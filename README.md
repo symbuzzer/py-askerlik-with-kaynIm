@@ -1,4 +1,4 @@
-# py-askerlik-with-kaynIm
+# PYTHON Askerlik With KaynIm
 Bünyamin BAKIMCI ile Python alıştırması
 
 Nasıl çalışır:  
