@@ -1,4 +1,4 @@
-cinsiyet=input("Cinsiyet giriniz: ")
+cinsiyet=input("Cinsiyet giriniz (e/k): ")
 if cinsiyet=="e":
     yas=input("Yaşınızı giriniz: ")
     if yas.isnumeric():
