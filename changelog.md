@@ -1,5 +1,8 @@
 CHANGELOG:  
   
+v1.0.4:  
+ -20 yaşa ilişkin hata giderildi.  
+   
 v1.0.3:  
  -Birçok hata düzeltildi.  
   
