@@ -6,7 +6,7 @@ while True:
         while True:
             try:
                 yas=int(input("Yaşınızı giriniz: "))
-                if yas <= 20:
+                if yas < 20:
                     print("Erken")
                 else:
                     print ("Askere gitmelisin")
