@@ -1,5 +1,8 @@
 CHANGELOG:  
   
+v1.0.3:  
+ -Birçok hata düzeltildi.  
+  
 v1.0.2:  
  -Cinsiyet seçim ekranı daha anlaşılır hale getirildi.  
   
